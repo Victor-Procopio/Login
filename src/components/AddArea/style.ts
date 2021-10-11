@@ -13,7 +13,6 @@ export const Container = styled.div`
     padding-left:30px;
     width: 259px;
     height: 77.54px;
-    background: url(Prancheta-8.png);
     }
 
     p{.

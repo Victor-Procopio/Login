@@ -1,4 +1,4 @@
-import logo from '../imgs/Logo.jpg';
+import logo from '../imgs/Logo.png';
 
 import * as C from './style'
 
